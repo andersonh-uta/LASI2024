@@ -10,3 +10,4 @@ You'll need a Google account to run code in Google Colab, but you get free acces
 3. Click the GitHub link in the left-hand side: ![Open Notebook interface](https://github.com/andersonh-uta/LASI2024/blob/main/img/Colab%202.png)
 4. Paste the link to this GitHub page (https://github.com/andersonh-uta/LASI2024) into the URL box: ![Open Notebook interface with the URL pasted](https://github.com/andersonh-uta/LASI2024/blob/main/img/Colab%203.png)
 5. Click the notebook you want to load in the list that opens up below.
+6. Make sure to connect to a T4 runtime: Runtime -> Change Runtime Type -> select "T4" and hit "save".
