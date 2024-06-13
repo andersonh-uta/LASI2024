@@ -1,6 +1,8 @@
 # LASI2024
 Notebooks and materials for LASI 2024 workshop.
 
+All content in this repository is made available under an MIT license.  See the `LICENSE` file for the full terms.
+
 # Running notebooks in Google Colab
 
 You'll need a Google account to run code in Google Colab, but you get free access to GPUs to run code on.
